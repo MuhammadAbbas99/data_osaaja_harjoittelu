@@ -28,7 +28,13 @@ The dataset used in this project is sourced from **Kaggle** and consists of mult
 
 ├── Phase4_EDA_Visualisation.ipynb
 
+├──Phase5_Dashboard.pbix
+
 ├── README.md
+
+├── ecommerce.db
+
+├── myyntidata_analyysi.pptx
 
 ├── requirements.txt
 
