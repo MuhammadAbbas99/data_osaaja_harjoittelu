@@ -1,7 +1,7 @@
 # Customer Segmentation Analysis using ML on Sales Data
 
 ## 📌 Project Overview
-This project focuses on **Customer Segmentation Analysis** using **Machine Learning techniques** applied to large-scale sales data. The goal is to identify distinct customer groups based on purchasing behavior, enabling better business decision-making, targeted marketing, and personalized strategies.
+This project focuses on **Customer Segmentation Analysis** using **Machine Learning techniques** applied to large-scale sales data. The goal is to identify distinct customer groups based on purchasing behavior, enabling better business decision-making, targeted marketing, and personalised strategies.
 
 The dataset used in this project is sourced from **Kaggle** and consists of multiple files containing transactional and customer-related data.
 
@@ -21,11 +21,15 @@ The dataset used in this project is sourced from **Kaggle** and consists of mult
 ├── customer_segmentation_data.csv
 
 ├── Phase1_Data_Cleaning_Preprocessing.ipynb
+
 ├── Phase2_Feature_Engineering.ipynb
+
 ├── Phase3_ML_Churn_and_Segmentation.ipynb
+
 ├── Phase4_EDA_Visualisation.ipynb
 
 ├── README.md
+
 ├── requirements.txt
 
 
@@ -34,11 +38,11 @@ The dataset used in this project is sourced from **Kaggle** and consists of mult
 ## 🗂 Dataset Information
 - **Source:** Kaggle  
 - **Type:** Sales / Customer transactional data  
-- **Size:** ~43.6 MB file 
+- **Size:** ~43.6 MB
 - **Rows:** 541,910 records  
 
 The dataset includes features related to:
-- Customer behavior  
+- Customer behaviour  
 - Purchase history  
 - Transaction details  
 
@@ -66,7 +70,7 @@ The dataset includes features related to:
 
 ### 2. Feature Engineering
 - Selecting relevant variables  
-- Normalization / Standardization  
+- Normalisation / Standardisation  
 
 ### 3. Model Building and Churn Prediction
 - Algorithms such as Logistic Regression, Random Forest, Decision Trees
