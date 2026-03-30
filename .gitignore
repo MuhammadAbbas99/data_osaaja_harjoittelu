@@ -1,0 +1,6 @@
+*.png
+*.jpg
+*.txt
+*.csv
+!customer_segmentation_data.csv
+!requirements.txt
