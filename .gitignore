@@ -1,6 +1,7 @@
 *.png
 *.jpg
 *.txt
+!requirements.txt
+
 *.csv
 !customer_segmentation_data.csv
-!requirements.txt
