@@ -26,7 +26,7 @@ The dataset used in this project is sourced from **Kaggle** and consists of mult
 ├── Phase4_EDA_Visualisation.ipynb
 
 ├── README.md
-└── requirements.txt
+├── requirements.txt
 
 
 ---
@@ -97,7 +97,7 @@ The dataset includes features related to:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/customer-segmentation.git
+git clone https://github.com/MuhammadAbbas99/data_osaaja_harjoittelu
 cd customer-segmentation
 
 -
