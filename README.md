@@ -1,7 +1,13 @@
 # Customer Segmentation Analysis using ML on Sales Data
 
 ## 📌 Project Overview
-This project focuses on **Customer Segmentation Analysis** using **Machine Learning techniques** applied to large-scale sales data. The goal is to identify distinct customer groups based on purchasing behaviour, enabling better business decision-making, targeted marketing, and personalised strategies.
+This project focuses on **Customer Segmentation Analysis** using **Machine Learning techniques** applied to large-scale sales data. 
+
+The source of the dataset is
+
+https://www.kaggle.com/code/fabiendaniel/customer-segmentation
+
+The goal is to identify distinct customer groups based on purchasing behaviour, enabling better business decision-making, targeted marketing, and personalised strategies.
 
 The dataset used in this project is sourced from **Kaggle** and consists of transactional and customer-related data.
 
