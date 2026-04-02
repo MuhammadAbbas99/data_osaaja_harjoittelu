@@ -6,4 +6,4 @@
 *.csv
 !customer_segmentation_data.csv
 
-.xlsx
+*.xlsx
