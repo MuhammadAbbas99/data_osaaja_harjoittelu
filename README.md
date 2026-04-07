@@ -38,7 +38,7 @@ https://www.kaggle.com/code/fabiendaniel/customer-segmentation
 
 ├── ecommerce.db
 
-├── myyntidata_analyysi.pptx
+├── myyntidata_analyysi_07.04.pptx
 
 ├── requirements.txt
 
