@@ -117,3 +117,6 @@ cd data_osaaja_harjoittelu
 -
 
 pip install -r requirements.txt
+```
+
+Have fun experimenting!
