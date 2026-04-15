@@ -1,6 +1,6 @@
 # Customer Segmentation Analysis using ML on Sales Data
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on **Customer Segmentation Analysis** using **Machine Learning techniques** applied to large-scale sales data. 
 
 The goal is to identify distinct customer groups based on purchasing behaviour, enabling better business decision-making, targeted marketing, and personalised strategies.
@@ -11,7 +11,7 @@ https://www.kaggle.com/code/fabiendaniel/customer-segmentation
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Perform data cleaning and preprocessing on raw sales data  
 - Explore and analyse customer behaviour patterns  
 - Apply machine learning algorithms for Churn prediction and segmentation  
@@ -20,7 +20,7 @@ https://www.kaggle.com/code/fabiendaniel/customer-segmentation
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ├── customer_segmentation_data.csv
 
@@ -45,7 +45,7 @@ https://www.kaggle.com/code/fabiendaniel/customer-segmentation
 
 ---
 
-## 🗂 Dataset Information
+## Dataset Information
 - **Source:** Kaggle  
 - **Type:** Sales / Customer transactional data  
 - **Size:** ~43.6 MB
@@ -58,7 +58,7 @@ The dataset includes features related to:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Python  
 - SQL 
 - SQLiteDatabaseBrowserPortable for digging deep into the Databse https://sqlitebrowser.org/dl/
@@ -70,7 +70,7 @@ The dataset includes features related to:
 
 ---
 
-## 🔍 Workflow
+## Workflow
 
 ### 1. Data Preprocessing
 - Handling missing values  
@@ -112,7 +112,7 @@ The dataset includes features related to:
 1. Clone the repository:
 ```bash
 git clone https://github.com/MuhammadAbbas99/data_osaaja_harjoittelu
-cd customer-segmentation
+cd data_osaaja_harjoittelu
 
 -
 
